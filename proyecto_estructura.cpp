@@ -39,9 +39,7 @@ int main()
 			case 4:{
 				buscar();
 				break;
-			}
-
-			
+			}	
 		}
 	}
 }
